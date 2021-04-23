@@ -4,3 +4,5 @@ Can you finish? Are you able to write C# _without_ Google? Let's test your skill
 
 ## Challenges
 1. Write a command line application that accepts a user-inputted first and last name and returns the value in Capital Case.
+
+2. Create an extension method for a string that reverses the string order.
